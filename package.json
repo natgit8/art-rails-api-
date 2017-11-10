@@ -1,5 +1,7 @@
 {
   "name": "art-rails-api",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "axios": "^0.17.0"
+  }
 }

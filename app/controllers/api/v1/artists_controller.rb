@@ -5,5 +5,4 @@ class Api::V1::ArtistsController < ApplicationController
     render json: @artists
   end
 
-
 end

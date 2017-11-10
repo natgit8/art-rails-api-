@@ -6,7 +6,7 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
-artists = Artist.create( [{name: 'Andy Warhol', biography: 'Pop Art'}, { name: 'Jackson Pollock', biography: 'Abstract Expressionism'}])
+artists = Artist.create( [{name: 'Andy Warhol', biography: 'Pop Art'}, { name: 'Jackson Pollock', biography: 'Abstract Expressionism'}, {name: 'Joan Miro', biography: 'Abstract Minimal'}])
 
 # artist1 = Artist.create(name: 'Andy Warhol', biography: 'Pop Art')
 #
